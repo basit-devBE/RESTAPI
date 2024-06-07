@@ -8,9 +8,7 @@
     "test": "ava"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/basit-devBE/RESTAPI.git"
-  },
+    
   "keywords": [],
   "author": "",
   "license": "ISC",
